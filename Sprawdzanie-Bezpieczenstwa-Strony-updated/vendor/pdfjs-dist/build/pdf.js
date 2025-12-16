@@ -1,0 +1,2 @@
+// Placeholder pdf.js loader. To enable full PDF parsing, replace with pdfjs-dist build/pdf.min.js and pdf.worker.min.js
+console.warn('Placeholder pdf.js in vendor - replace with real pdfjs-dist build for full PDF parsing.');
